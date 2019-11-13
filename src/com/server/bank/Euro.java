@@ -12,6 +12,7 @@ public class Euro extends Currency {
 
 @Override
 public double getRupeesConvresionRate() {
+	System.out.println("Hello");
 	 
 	return rupeesConvresionRate;
 }

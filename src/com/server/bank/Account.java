@@ -4,7 +4,7 @@ public class Account {
 	private String branchName;
 	public Account(){
 		System.out.println("Account.Account() here.");
-		System.out.println("just like that");
+		//System.out.println("just like that");
 	}
 	
 	public Account(String newName)
